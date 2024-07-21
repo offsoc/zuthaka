@@ -7,7 +7,7 @@ requests
 django-filter
 channels
 channels_redis
-gunicorn==20.0.4
+gunicorn==22.0.0
 django_extensions
 aiohttp
 pytest-asyncio
